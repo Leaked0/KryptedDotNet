@@ -1,3 +1,0 @@
-C:\Users\Administrator\Desktop\1337\Debug\ouit\src\KryptedDotNet\obj\Debug\KryptedDotNet.csproj.SuggestedBindingRedirects.cache
-C:\Users\Administrator\Desktop\1337\Debug\ouit\src\KryptedDotNet\obj\Debug\KryptedDotNet.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\1337\Debug\ouit\src\KryptedDotNet\obj\Debug\KryptedDotNet.csproj.AssemblyReference.cache
